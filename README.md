@@ -1,5 +1,5 @@
 # 7Bridges_cancer_genomics_project
-Project for the CDC using the 7 bridges platform and this repository contains my work for the project.
+I performed a project for the CDC using the 7 bridges platform and this repository contains my work.
 
 Readme_deps- Which has a list of all needed dependencies and packages.
 Quant Assessment - A quantitative assessment of the NLST data set in Jupyter.
