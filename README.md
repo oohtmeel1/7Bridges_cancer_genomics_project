@@ -1,10 +1,11 @@
 # 7Bridges_cancer_genomics_project
 I performed a project for the CDC using the 7 bridges platform and this repository contains my work.
 
-Readme_deps- Which has a list of all needed dependencies and packages.
-Quant Assessment - A quantitative assessment of the NLST data set in Jupyter.
-Data loading and preprocessing - A notebook to illustrate how data was loaded, cleaned and organized.
-Ml_model - A notebook showing basic model architecture and some resulting metrics.
+
+`Quantitative_assessment_data` - A quantitative assessment of the NLST data set in Jupyter.
+`Final_submission_preprocessing_and_cleanup_only` - A notebook to illustrate how data was loaded, cleaned and organized.
+`Ml_model` - A notebook showing basic model architecture and some resulting metrics.
+`submission_documentation.pdf` - The report discussing findings and recommendations.
 
 I performed this project for the CDC, as part of the AI data readiness challenge. 
 The purpose of this report was to assess the AI readiness of the publicly available data from The National Lung Screening Trial (NLST) dataset. Specifically, by using the data available to train a machine learning model to identify Cancerous lung nodules without the presence of annotated slides for reference. Data was obtained, then transformed into a format easily used by a machine learning model. Training and testing were performed, and metrics were quantified. Qualitative inferences were also made about the data, then quantitative inferences were attempted.
