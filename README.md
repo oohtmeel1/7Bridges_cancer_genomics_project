@@ -1,5 +1,5 @@
 # 7Bridges_cancer_genomics_project
-I performed a project for the NIH using the 7 bridges platform and this repository contains my work.
+I performed a project for the CRDC using the 7 bridges platform and this repository contains my work.
 
 
 `Quantitative_assessment_data` - A quantitative assessment of the NLST data set in Jupyter.
