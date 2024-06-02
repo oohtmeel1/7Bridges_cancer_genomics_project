@@ -19,8 +19,12 @@ This project was a great learning experience and I am glad I attempted it. I got
 
 
 References:
+The model can be found here:
+https://computational.cancer.gov/model/aidr-challenge-tier-1-mcfarlin
 
 BIBLIOGRAPHY
+NCI Imaging Data commons landing page: https://datacommons.cancer.gov/repository/imaging-data-commons
+
 NLST Landing page - the Cancer Data Access System. (n.d.). https://cdas.cancer.gov/nlst/
 https://cdas.cancer.gov/nlst/   [1]
 
