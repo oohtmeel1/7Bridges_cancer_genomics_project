@@ -1,4 +1,4 @@
-# 7Bridges_cancer_genomics_project
+# Project to Assess AI data readiness of the NLST
 I performed a project for the CRDC using the 7 bridges platform and this repository contains my work.
 
 
